@@ -1,0 +1,30 @@
+DATA = {
+"Anchor" : "Heavy object used to keep a ship in place",
+"Bridge" : "A structure built to cross over water or roads", 
+"Compass" : "A tool that shows direction",
+"Dolphin" : " A smart marine mammal known for its playful nature",
+"Engine": "A machine  that provides power for vehicles or machines",
+"Feather" : " A soft structure covering birds' body",
+"Glacier" : "A large mass of ice that moves slowly",
+"Hammer" : "A tool used for driving nails into wood",
+"Island" : "A piece of land surrounded by water",
+"Jigsaw" : "A puzzle with interlocking pieces",
+"Key" : " A small object used to unlock doors or start engines",
+"Lighthouse" : "A tall tower with a light to guide ships",
+"Meadow" : " A field with grass abd wildflowers",
+"Notebook": "A book used for writing notes and ideas",
+"Orbit" : "The curved path of an object around a planet or star",
+"Pyramid" : "A triangular-shaped structure, like those in egypt",
+"Quilt": "A thick, warm blanket made of fabric ptaches", 
+"Rocket" : " A vehicle used for space travel",
+"Sculpture" : "A work of art made by carving or molding",
+"Tunnel" : "An underground passage for trains, cars, or people",
+"Universe" : "All of space, including stars and planets", 
+"Volcano" : "A mountain that erupts with lava and gases",
+"Windmill" : "A structure that used wind to produce energy",
+"X-ray" : "A type of radiation used to see inside the body",
+"Yogurt" : "A creamy dairy product from milk",
+"Zipper" : "A fastening device used in clothing and bags"
+}
+a=input ("Word:")
+print(DATA[a])
